@@ -71,5 +71,5 @@ npm run dev
 ```
 
 ## 📞 Contact
-For any inquiries or support, please reach out to **ruhulamin.et15@gmail.com**.
+For any inquiries or support, please reach out to **ruhulamin.cse56@gmail.com**.
 
