@@ -6,8 +6,8 @@ Medical Online Certificate is a web-based application that allows users to gener
 [Medical Online Certificate](https://medic.ruhulamin.live)
 
 ## 🔗 Project Links
-- **Frontend Live:** [medical-certificate-frontend.vercel.app](https://medic.ruhulamin.live)
-- **Backend Live:** [medical-certificate-backend.vercel.app](https://medic-api.ruhulamin.live)
+- **Frontend Live:** [Medic Frontend](https://medic.ruhulamin.live)
+- **Backend Live:** [Medic Backend](https://medic-api.ruhulamin.live)
 - **Frontend GitHub:** [GitHub Repo](https://github.com/ruhulamin-et15/medical_certificate_frontend)
 - **Backend GitHub:** [GitHub Repo](https://github.com/ruhulamin-et15/medical_certificate_backend)
 
